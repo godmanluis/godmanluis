@@ -110,3 +110,15 @@ https://www.linkedin.com/in/emmanuel-gracia-louis-a62ba6120?trk=contact-info
 
 - Notion Interactive Portfolio:
  https://app.notion.com/p/Engineering-Portfolio-Emmanuel-G-LOUIS-c4da9e4903ca42c2b0ecbe02ee15dfa0?source=copy_link
+
+
+
+## Featured Projects
+
+[![E-Commerce Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=godmanluis&repo=e-commerce-data-warehouse&theme=dark)](https://github.com/godmanluis/e-commerce-data-warehouse)
+
+### E-Commerce Data Warehouse & Revenue Optimization Dashboard
+- PostgreSQL star-schema data warehouse
+- SQL reporting layer for BI consumption
+- Power BI dashboard concept for revenue, margin, customer, and fulfillment analysis
+- Designed for portfolio presentation and analytics case studies
