@@ -37,11 +37,11 @@ Automation Ecosystem: Web Scraping (BeautifulSoup, Requests API), Task Automatio
 
 - Impact: Engineered a centralized Star Schema database to solve data silos. Built an automated executive dashboard that exposed a **14.2% profit margin leak** in global logistics and cut manual reporting hours from 10 hours a week to 0.
 
-- 🔗 [Live Power BI Report Demo]([Insert Your Public Power BI Web Link Here]) |
+- 🔗  Live Power BI Report 
 
-Source Code Repo]
+https://github.com/godmanluis/e-commerce-data-warehouse
 
-(https://github.com/godmanluis
+
 
 
 
